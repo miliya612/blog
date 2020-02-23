@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://miliya612.github.io/blog"
 languageCode = "en-us"
 title = "miliya.flushed"
+author = "miliya612"
 theme = "ezhil"
+publishDir = "docs"
