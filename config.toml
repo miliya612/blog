@@ -4,3 +4,4 @@ title = "miliya.flushed()"
 author = "miliya612"
 theme = "ezhil"
 publishDir = "docs"
+canonifyurls = true
